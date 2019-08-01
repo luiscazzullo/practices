@@ -1,3 +1,3 @@
 # Proyecto de prácticas
 
-* Clase 1: Práctica con la consola de Git
+* Class 1: Practices with Git Console.
