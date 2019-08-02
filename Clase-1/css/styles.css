@@ -29,13 +29,27 @@ ul li {
     padding: 5px;
 }
 
+/*C O N T E N T*/
+
+section {
+    background: blue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.content-box {
+    border: 2px solid black;
+    flex: 0 0 30%;
+    margin: 20px 0;
+}
+
+
 
 /*F O O T E R*/
 
 footer {
     background: lightblue;
     display: flex;
-    margin-top: 50px;
     justify-content: center;
     align-content: center;
 }
