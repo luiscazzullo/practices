@@ -28,3 +28,23 @@ ul li {
     float: left;
     padding: 5px;
 }
+
+
+/*F O O T E R*/
+
+footer {
+    background: lightblue;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-content: center;
+}
+
+.institutional-text {
+    flex: 0 0 60%;
+    padding: 5px;
+}
+
+.institutional-text p {
+    text-align: justify;
+}
